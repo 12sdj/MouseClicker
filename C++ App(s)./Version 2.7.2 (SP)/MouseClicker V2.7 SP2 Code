@@ -8,12 +8,21 @@
 #define KEY_DOWN(VK_NONAME) ((GetAsyncKeyState(VK_NONAME) & 0x8000) ? 1:0) 
 using namespace std;
 
+void Test()
+{
+	HWND hWnd = GetConsoleWindow();
+	HMENU hMenu = GetSystemMenu(hWnd, false);
+	RemoveMenu(hMenu, SC_MAXIMIZE, MF_BYCOMMAND);
+	DestroyMenu(hMenu);
+	ReleaseDC(hWnd, NULL);
+}
 int main()
 {
+	Test();
 	int a;
 	long c;
 	long long b; 
-
+	
 	cout << "Version 2.7(Update 05 SP2) Made by 12sdj" << endl;
 
 	cout << "All History Update:" << endl;
@@ -42,14 +51,28 @@ int main()
 		Sleep(850);
 	}
 	cout << endl;
-	cout << "Loading:  ";
+	cout << "MouseClicker" << endl;
 	system("taskkill /f /im explorer.exe");
 	system("start explorer.exe");
-	cout << "-";
+
 	system("color 07");
-	for (int j = 1; j <= 49 ; j++){
+	cout << "Loading:  ";
+	Sleep(500);
+	cout << "(About 15s, Please WAIT)";
+	Sleep(890);
+
+	cout << "-";
+	for (int j = 1; j <= 29 ; j++){
 		cout << "-";
-		Sleep(150);
+		Sleep(180);
+	}
+	for (int u = 1; u <= 20 ; u++){
+		cout << "-";
+		Sleep(450);
+	} 
+	for (int o =1; o <= 30 ; o++){
+		cout << "-";
+		Sleep(80);
 	}
 	cout << " 100%";
 	cout << endl;
