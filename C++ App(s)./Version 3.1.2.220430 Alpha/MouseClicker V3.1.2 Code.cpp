@@ -57,7 +57,7 @@ int main()
 		Sleep(1);
 		cout << "3.0(Update 06 2022.4.26)" << endl;
 		Sleep(3);
-		cout << "3.1(Update 07 2022.5.1)" << endl;
+		cout << "3.1(Update 07 2022.5.1)[PLAN]" << endl;
 		cout << endl;
 		system("color 03");
 		cout << "About 3s later, This procedure will begin to start." <<endl;
