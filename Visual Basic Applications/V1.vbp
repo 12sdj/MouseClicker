@@ -1,0 +1,3 @@
+
+Private Const MOUSEEVENTF_LEFTDOWN = &H2 '模拟鼠标左键按下
+Private Const MOUSEEVENTF_LEFTUP = &H4 '模拟鼠标左键抬起
