@@ -1,2 +1,2 @@
-*.cs linguist-language=C++
-*.ico linguist-language=C++
+*.cpp linguist-language=C++
+*.py linguist-language=Python
