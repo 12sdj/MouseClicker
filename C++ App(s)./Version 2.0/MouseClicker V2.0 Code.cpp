@@ -14,7 +14,7 @@ int main()
 	long c;
 	long long b; 
 
-	cout << "Version 2.7(Update 04 2022.4.15) Made by 12sdj" << endl;
+	cout << "Version 2.0(Update 03 2022.4.15) Made by 12sdj" << endl;
 
 	cout << "All History Update:" << endl;
 	cout << "1.0(2021.12.25)" << endl;
