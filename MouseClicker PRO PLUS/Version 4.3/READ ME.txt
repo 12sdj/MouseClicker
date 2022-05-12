@@ -1,0 +1,6 @@
+使用说明：
+采用bandizip自解压，请运行MouseClicker PRO PLUS.exe
+注意：
+不要删除压缩包内任何文件，尤其是MouseClicker PRO PLUS.exe和MouseClicker PRO PLUS.e01
+
+运行MouseClicker PRO PLUS.exe后，即可获得MouseClicker.exe文件（该文件是真正的程序）
