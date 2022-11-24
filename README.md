@@ -11,4 +11,4 @@ MouseClicker全系列遇到问题，将暂停更新，其间存储库进入维�
 ## MouseClicker系列
   * [MouseClicker Basic](https://github.com/12sdj/MouseClicker-by-12sdj/tree/main/MouseClicker%20Basic)
   * [MouseClicker Lite](https://github.com/12sdj/MouseClicker-by-12sdj/tree/main/MouseClicker%20Lite)
-  * MouseClicker Professional Plus
+  * [MouseClicker Professional Plus](https://github.com/12sdj/MouseClicker-by-12sdj/tree/main/MouseClicker%20PRO%20PLUS)
