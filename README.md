@@ -1,4 +1,4 @@
-# MouseClicker by 12sdj  
+# Mouse Clicker  
 ![image](https://img.shields.io/badge/License-MIT-orange)  
 ## 当前状态  
 **维护中……**  
