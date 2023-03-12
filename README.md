@@ -1,9 +1,10 @@
 # MouseClicker  
 ![image](https://img.shields.io/badge/License-MIT-orange)  
 ## 当前状态  
-**正在迁移代码，准备关停本存储库**      
-
-MouseClicker系列遇到问题，将暂停更新，期间存储库进入维护状态。       
+**正在迁移代码，准备关停本存储库**  
+    
+**动态：**  
+MouseClicker系列遇到问题，已暂停更新，期间存储库进入维护状态。       
 MouseClicker系列中包含的三个产品将分别迁移至三个新的存储库进行更新，以避免混乱。      
 感谢您的支持！
 ## 开发者
